@@ -3,6 +3,9 @@ uuid = "0f44ff70-f9e8-4150-bff6-ce0b9fde4801"
 authors = ["Vojtech Liska"]
 version = "1.0.0-DEV"
 
+[deps]
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
 [compat]
 julia = "1"
 
