@@ -1,0 +1,13 @@
+name = "NKTP"
+uuid = "0f44ff70-f9e8-4150-bff6-ce0b9fde4801"
+authors = ["Vojtech Liska"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
